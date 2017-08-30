@@ -1,4 +1,8 @@
 Hello! This is Git
 
+--> Change 1
 
-[3] --> change 3
+--> change 2
+
+--> chnage 3 is changed
+
