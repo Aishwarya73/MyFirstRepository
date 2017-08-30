@@ -1,2 +1,4 @@
 this is file2!
 (changed by bug123)
+
+change 1
